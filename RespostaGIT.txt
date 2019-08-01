@@ -1,0 +1,1 @@
+O problema quando está relacionado dois computadores ao servidor Git, são as sincroniações em esxcesso, pois apos finalizar uma versão de um computador, é preciso sincroniza-la ao outro computador pra continuar o andamento do projeto.
